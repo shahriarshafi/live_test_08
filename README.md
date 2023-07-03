@@ -1,16 +1,2 @@
-# live_test_08
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ertertertert](https://github.com/shahriarshafi/live_test_08/assets/59678133/a9c33ee0-a110-49ec-b6fe-f62aa5c393dc)
+![qwqwqw](https://github.com/shahriarshafi/live_test_08/assets/59678133/0f89c0af-eb0c-4c3a-abdf-ca72d223fc45)
